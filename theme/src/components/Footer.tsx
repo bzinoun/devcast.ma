@@ -82,9 +82,9 @@ export const FooterTemplate = ({
           `}
         />
         <Text textAlign="center">
-          This site was develop using &nbsp;
-          <Link path="https://github.com/EmaSuriano/gatsby-theme-anchor">
-            <b>gatsby-theme-anchor</b>
+          This site is powered by &nbsp;
+          <Link path="https://www.netlify.com/">
+            <b>Netlify</b>
           </Link>
           &nbsp; ❤
         </Text>
