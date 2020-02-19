@@ -1,12 +1,12 @@
 ---
-heading: The ES Podcast
-subheading: A podcast about Random Javascript stuff
+heading: DevCast.ma
+subheading: Pour les dev marocain animé par des Dev marocain
 logo: ''
 cover: ''
 podcastLinks:
-  - 'https://anchor.fm/the-es-podcast'
-  - 'https://open.spotify.com/show/5Rd4cMDPMx1yTIrs0988jo'
+  - 'https://anchor.fm/devcastma'
+  - 'https://open.spotify.com/show/7tpTX8WqbTijbfj6XNOQHA'
 socialLinks:
-  - 'https://www.youtube.com/channel/UCS9lQiBBcvWEqQ66bijxIOw?view_as=subscriber'
-  - 'https://twitter.com/emasuriano'
+  - 'https://www.youtube.com/'
+  - 'https://twitter.com/devcastma'
 ---
