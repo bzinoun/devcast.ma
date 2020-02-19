@@ -2,8 +2,17 @@
 title: "What is this about?? \U0001F914"
 authors:
   - description: "A guy that really likes Javascript \U0001F605 Open-Source Enthusiast \U0001F30E"
-    name: Ema Suriano
+    name: Sallah Kokaina
     picture: /img/psx_20190301_135441.jpg
+  - description: "A guy that really likes Javascript \U0001F605 Open-Source Enthusiast \U0001F30E"
+    name: Badr Eddine Zinoun
+    picture: /img/badr.jpeg
+  - description: "A guy that really likes Javascript \U0001F605 Open-Source Enthusiast \U0001F30E"
+    name: Rachid Baazziz
+    picture: /img/psx_20190301_135441.jpg  
+  - description: "A guy that really likes Javascript \U0001F605 Open-Source Enthusiast \U0001F30E"
+    name: Zouhair Jawadi
+    picture: /img/psx_20190301_135441.jpg             
 ---
 
 Hello there! Let me tell a little bit about this new project I started: **The ES Podcast** 🎉
