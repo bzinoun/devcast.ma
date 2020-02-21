@@ -7,7 +7,7 @@ authors:
   - description: "A guy that really likes Javascript \U0001F605 Open-Source Enthusiast \U0001F30E"
     name: Badr Eddine Zinoun
     picture: /img/badr.jpeg
-  - description: "Software Engineer | Marketing Enthusiast"
+  - description: "Technical Lead |  Solution Architect | CTO
     name: Rachid Baaziz
     picture: /img/rachid.png
   - description: "Software Engineer"
