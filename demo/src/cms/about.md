@@ -1,26 +1,18 @@
 ---
 title: "What is this about?? \U0001F914"
 authors:
-  - description: "A guy that really likes Javascript \U0001F605 Open-Source Enthusiast \U0001F30E"
+  - description: "Animator | Author | Digital Expert"
     name: Sallah Kokaina
-    picture: /img/psx_20190301_135441.jpg
+    picture: /img/sallah.jpeg
   - description: "A guy that really likes Javascript \U0001F605 Open-Source Enthusiast \U0001F30E"
     name: Badr Eddine Zinoun
     picture: /img/badr.jpeg
-  - description: "A guy that really likes Javascript \U0001F605 Open-Source Enthusiast \U0001F30E"
-    name: Rachid Baazziz
-    picture: /img/psx_20190301_135441.jpg  
-  - description: "A guy that really likes Javascript \U0001F605 Open-Source Enthusiast \U0001F30E"
+  - description: "Software Engineer | Marketing Enthusiast"
+    name: Rachid Baaziz
+    picture: /img/rachid.png
+  - description: "Software Engineer"
     name: Zouhair Jawadi
-    picture: /img/psx_20190301_135441.jpg             
+    picture: /img/zouhair.png            
 ---
-
-Hello there! Let me tell a little bit about this new project I started: **The ES Podcast** 🎉
-
-This is my first attempt of starting a tech podcast, and it all started as an excuse to create a Gatsby Theme that use the datasource of Anchor. And to be more specific the project is this one that you are seeing right now! 😄
-
-Regarding the content of the podcast it will include:
-
-- Opinion and learning that I think they are worthy to share with people.
-- Recommendation of projects that I am making or that I found on the web.
-- Interviews of some of my rockstar colleagues that are willing to participate in the project.
+Devcast.ma est un podcast marocain animé  par des développeurs à destination de développeurs.
+Un rendez-vous mensuel où nous abordons des sujets qui touchent le métier de développeur(se).

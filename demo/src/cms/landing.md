@@ -9,4 +9,5 @@ podcastLinks:
 socialLinks:
   - 'https://www.youtube.com/'
   - 'https://twitter.com/devcastma'
+  - 'https://facebook.com/devcast.ma'
 ---
