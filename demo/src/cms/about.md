@@ -4,10 +4,10 @@ authors:
   - description: "Animator | Author | Digital Expert"
     name: Sallah Kokaina
     picture: /img/sallah.jpeg
-  - description: "A guy that really likes Javascript \U0001F605 Open-Source Enthusiast \U0001F30E"
+  - description: "Technical Lead |  Solution Architect | CTO"
     name: Badr Eddine Zinoun
     picture: /img/badr.jpeg
-  - description: "Technical Lead |  Solution Architect | CTO"
+  - description: "Software Engineer | Marketing Enthusiast"
     name: Rachid Baaziz
     picture: /img/rachid.png
   - description: "Software Engineer"
