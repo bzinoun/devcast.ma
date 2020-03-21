@@ -1,6 +1,6 @@
 ---
 heading: DevCast.ma
-subheading: Pour les dev marocain animé par des Dev marocain
+subheading: Le Podcast des Dev marocains animé par les Dev marocains 🤓
 logo: ''
 cover: ''
 podcastLinks:
