@@ -5,7 +5,7 @@ authors:
     name: Sallah Kokaina
     picture: /img/sallah.jpeg
   - description: "Technical Lead |  Solution Architect | CTO"
-    name: Badr Eddine Zinoun
+    name: Badr-Eddine Zinoun
     picture: /img/badr.jpeg
   - description: "Software Engineer | Marketing Enthusiast"
     name: Rachid Baaziz
