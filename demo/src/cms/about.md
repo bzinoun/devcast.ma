@@ -1,7 +1,7 @@
 ---
 title: "What is this about?? \U0001F914"
 authors:
-  - description: "Animator | Author | Digital Expert"
+  - description: " | Author | Digital Expert"
     name: Sallah Kokaina
     picture: /img/sallah.jpeg
   - description: "Technical Lead |  Solution Architect | CTO"
@@ -14,5 +14,5 @@ authors:
     name: Zouhair Jawadi
     picture: /img/zouhair.png            
 ---
-Devcast.ma est un podcast marocain animé  par des développeurs à destination de développeurs.
+Devcast.ma est un podcast marocain animé par des développeurs à destination de développeurs.
 Un rendez-vous mensuel où nous abordons des sujets qui touchent le métier de développeur(se).
