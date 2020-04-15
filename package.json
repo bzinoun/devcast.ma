@@ -6,7 +6,10 @@
   ],
   "husky": {
     "hooks": {
-      "pre-push": "yarn workspace gatsby-theme-anchor type-check"
+      "pre-push": "yarn workspace demo type-check"
     }
+  },
+  "dependencies": {
+    "gatsby": "^2.20.22"
   }
 }
